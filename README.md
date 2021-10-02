@@ -1,8 +1,8 @@
 <hr>
 <h1 align="center"> 👋Hola!
 </h1>
-- 👋 Hola, Soy @Trollhunters501
-- 👀 Me interesa crear plugins de Minecraft pe y jugar servidores!.
+<p align="center"> - 👋 Hola, Soy @Trollhunters501 <\p>
+<p align="center"> - 👀 Me interesa crear plugins de Minecraft pe y jugar servidores!. <\p>
 - 🌱 Actualmente estoy aprendiendo php de PocketMine.
 - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7
 - 🏆 mi meta es ser conocido como creador de plugins y servidores de Minecraft.
