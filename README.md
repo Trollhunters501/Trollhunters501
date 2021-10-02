@@ -1,3 +1,5 @@
+<hr>
+<h1 align="center"> 👋Hola!
 - 👋 Hola, Soy @Trollhunters501
 - 👀 Me interesa crear plugins de Minecraft pe y jugar servidores!.
 - 🌱 Actualmente estoy aprendiendo php de PocketMine.
@@ -7,6 +9,7 @@
 <div align="center"> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
+<h2 align="center"> Lenguajes que conozco!
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <!---
