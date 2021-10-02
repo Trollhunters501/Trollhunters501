@@ -7,7 +7,7 @@
 <div align="center"> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img 
 
 <!---
