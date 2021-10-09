@@ -9,8 +9,8 @@
 <p align="center"> - 😄 en mis plugins el autor es Creadores
 <div align="center"> 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=dark)
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
