@@ -12,7 +12,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true) 
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" /> 
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
+<p align="center"> Top Lenguajes!
+![Trollhunters501's Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=radical)
 <h3 align="center"> Página web
 </h3> 
 <p align="center"> Toca la foto! </p>
