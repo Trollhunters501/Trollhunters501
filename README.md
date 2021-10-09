@@ -15,7 +15,7 @@
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
 <p align="center"> Top Lenguajes!
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/
 <h3 align="center"> Página web
 </h3> 
 <p align="center"> Toca la foto! </p>
