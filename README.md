@@ -14,7 +14,6 @@
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
-<p align="center"> Top Lenguajes!
 ![Stats](https://github-readme-stats.vercel.app/
 <h3 align="center"> Página web
 </h3> 
