@@ -19,6 +19,10 @@
 <p align="center"> Toca la foto! </p>
 <a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Creadores.jpg" />
 </a>
+<h2 align="center"> YouTube! 
+</h1>
+<p align="center">
+<a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
 <!---
 Trollhunters501/Trollhunters501 su página ✨ special ✨  causado por `README.md` (this file) aparece en tu GitHub profile.
 You can click the Preview link to take a look at your changes.
