@@ -19,7 +19,10 @@
 <p align="center"> Toca la foto! </p>
 <a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Creadores.jpg" />
 </a>
-<h2 align="center"> YouTube! 
+<h4 aling="Center"> Brokenlens!
+<p align="center">
+<a href="https://www.brlns.net/forums/members/trollhunters501.51386/"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/brokenlens.png"/> </a>
+<h5 align="center"> YouTube! 
 </h1>
 <p align="center">
 <a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
