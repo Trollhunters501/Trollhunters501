@@ -14,24 +14,25 @@
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
-<h2 aling="center"> Y algo de:
-</h2>
+<h3 aling="center"> Y algo de:
+</h3>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png"
+</h4>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png"
-<h3 align="center"> Página web
-</h3> 
+<h5 align="center"> Página web
+</h5> 
 <p align="center"> Toca la foto! </p>
 <a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Creadores.jpg" />
 </a>
-<h4 aling="Center"> Brokenlens!
+<h6 aling="Center"> Brokenlens!
 <p align="center">
 <a href="https://www.brlns.net/forums/members/trollhunters501.51386/"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/brokenlens.png"/> </a>
-<h5 align="center"> YouTube! 
-</h1>
+<h6 align="center"> YouTube! 
+</h7>
 <p align="center">
 <a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
-<h5 align="Center"> Discord!
-</h1>
+<h7 align="Center"> Discord!
+</h7>
 <p align="center">
 <a href="https://discord.gg/HeMbkhnYMR"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Discord.jpeg"/> </a>
 <!---
