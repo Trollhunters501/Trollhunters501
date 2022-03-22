@@ -26,6 +26,10 @@
 </h1>
 <p align="center">
 <a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
+<h5 align="Center"> Discord!
+</h1>
+<p align="center">
+<a href="https://discord.gg/HeMbkhnYMR"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Discord.jpeg"/> </a>
 <!---
 Trollhunters501/Trollhunters501 su página ✨ special ✨  causado por `README.md` (this file) aparece en tu GitHub profile.
 You can click the Preview link to take a look at your changes.
