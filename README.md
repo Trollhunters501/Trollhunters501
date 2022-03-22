@@ -7,7 +7,7 @@
 <p align="center"> - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7
 <p align="center"> - 🏆 mi meta es ser conocido como creador de plugins y servidores de Minecraft.
 <p align="center"> - 😄 en mis plugins el autor es Creadores
-<div align="center"> 
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=dark)
@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
 <h2 aling="center"> Y algo de:
 </h2>
-<img src="
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png"
 <h3 align="center"> Página web
 </h3> 
 <p align="center"> Toca la foto! </p>
