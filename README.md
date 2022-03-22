@@ -17,6 +17,7 @@
 <h2 aling="center"> Y algo de:
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png"
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png"
 <h3 align="center"> Página web
 </h3> 
 <p align="center"> Toca la foto! </p>
