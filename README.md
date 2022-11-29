@@ -19,7 +19,7 @@
 <h5 align="center"> Página web
 </h5> 
 <p align="center"> Toca la foto! </p>
-<a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/livestream.jpg" />
+<a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/20220823_182853_0000.png" />
 </a>
 <h6 aling="Center"> Brokenlens!
 <p align="center">
