@@ -3,8 +3,8 @@
 </h1>
 <p align="center"> - 👋 Hola, Soy @Trollhunters501 </p>
 <p align="center"> - 👀 Me interesa crear plugins de Minecraft pe y jugar servidores!.</p>
-<p align="center"> - 🌱 Actualmente estoy aprendiendo php de PocketMine.</p>
-<p align="center"> - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7 y Nukkit!</p>
+<p align="center"> - 🌱 Actualmente estoy aprendiendo php de PocketMine, Javascript, Java de Nukkit y ya casi domino Html!.</p>
+<p align="center"> - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7 y Nukkit de Java 8!</p>
 <p align="center"> - 🏆 mi meta es ser conocido como creador de plugins y servidores de Minecraft.</p>
 <p align="center"> - 😄 en mis plugins el autor es Creadores</p>
 <div align="center">
