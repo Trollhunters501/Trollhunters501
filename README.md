@@ -16,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png" />
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png" />
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/html.png" />
 <h5 align="center"> Página web
 </h5> 
 <p align="center"> Toca la foto! </p>
