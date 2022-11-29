@@ -30,7 +30,7 @@
 <p align="center"> Discord!
 </p>
 <a href="https://discord.gg/HeMbkhnYMR"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Discord.jpeg"/> </a>
-<a href="https://www.facebook.com/profile.php?id=100086128624988">
+<a href="https://www.facebook.com/profile.php?id=100086128624988"> <img src="
 <!---
 Trollhunters501/Trollhunters501 su página ✨ special ✨  causado por `README.md` (this file) aparece en tu GitHub profile.
 You can click the Preview link to take a look at your changes.
