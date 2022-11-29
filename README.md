@@ -4,9 +4,9 @@
 <p align="center"> - 👋 Hola, Soy @Trollhunters501 </p>
 <p align="center"> - 👀 Me interesa crear plugins de Minecraft pe y jugar servidores!.</p>
 <p align="center"> - 🌱 Actualmente estoy aprendiendo php de PocketMine, Javascript, Java de Nukkit y ya casi domino Html!.</p>
-<p align="center"> - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7 y Nukkit de Java 8!</p>
-<p align="center"> - 🏆 mi meta es ser conocido como creador de plugins y servidores de Minecraft.</p>
-<p align="center"> - 😄 en mis plugins el autor es Creadores</p>
+<p align="center"> - 💞️ Estoy buscando colaborar en un servidor o un plugin de PocketMine de php 7 o Nukkit de Java 8! También en programas como páginas web, etc.</p>
+<p align="center"> - 🏆 mi meta es ser conocido como creador de plugins, creador de servidores de Minecraft y programador de páginas web!.</p>
+<p align="center"> - 😄 en mis plugins el autor es Creadores o aveces mi nombre 😊</p>
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
