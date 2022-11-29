@@ -14,11 +14,8 @@
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
-<h3 aling="center"> Y algo de:
-</h3>
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png"
-</h4>
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png"
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png" />
+<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png" />
 <h5 align="center"> Página web
 </h5> 
 <p align="center"> Toca la foto! </p>
