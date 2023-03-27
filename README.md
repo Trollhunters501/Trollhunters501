@@ -30,8 +30,10 @@
 <p align="center"> Discord!
 </p>
 <a href="https://discord.gg/HeMbkhnYMR"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Discord.jpeg"/> </a>
-<p align="center"> Facebook!</p>
-<a href="https://www.facebook.com/profile.php?id=100086128624988"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Facebook.png"/>
+
+<a href="https://www.facebook.com/profile.php?id=100089507007036&mibextid=ZbWKwL"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/Facebook.png"/>
+<p align="center"> Facebook!</p></a>
+
 
 <br/>
 <p>📄 Mis Certificados de JavaScript:</p>
