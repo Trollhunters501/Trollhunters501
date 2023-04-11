@@ -1,0 +1,12 @@
+{
+  "name": "Creadores Games",
+  "short_name": "Creadores Games",
+  "description": "Página web oficial del servidor de Minecraft Creadores Games",
+  "start_url": "https://creadoresgamesforum.blogspot.com/",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "theme_color": "#00FFFF",
+  "background_color": "#008000"
+}
