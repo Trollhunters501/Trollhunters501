@@ -11,6 +11,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Trollhunters501&theme=dark&hide_border=false)
+![](https://github-profile-trophy.vercel.app/?username=Trollhunters501&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
 <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
@@ -22,8 +24,6 @@
 <p align="center"> Toca la foto! </p>
 <a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/20220823_182853_0000.png" />
 </a>
-<p aling="center"> Brokenlens!</p>
-<a href="https://www.brlns.net/forums/members/trollhunters501.51386/"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/brokenlens.png"/> </a>
 <p align="center"> YouTube!
 </p>
 <a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
