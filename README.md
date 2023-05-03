@@ -15,15 +15,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Trollhunters501&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h2 align="center"> Lenguajes que conozco!🤓😉😄
 </h2>
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/php.png" />
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/java.png" />
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/javascript.png" />
-<img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/html.png" />
-<p align="center"> Página web
-</p> 
-<p align="center"> Toca la foto! </p>
-<a href="https://creadoresgames.blogspot.com/?m=1"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/20220823_182853_0000.png" />
-</a>
+<img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white'/> <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/> <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white"/> <img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<h2>Redes sociales:<h2/>
+<a href="https://creadoresgames.blogspot.com/?m=1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 <p align="center"> YouTube!
 </p>
 <a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://raw.githubusercontent.com/Trollhunters501/Trollhunters501/main/images.png"/> </a>
