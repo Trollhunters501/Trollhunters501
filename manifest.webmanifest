@@ -1,0 +1,29 @@
+{
+  "name": "Trollhunters501 Blog",
+  "short_name": "Trollhunters501 Blog",
+  "id": "trollhunters501-blogger",
+  "author": "Trollhunters501",
+  "start_url": "https://creadoresgames.blogspot.com/",
+  "scope": "https://creadoresgames.blogspot.com/",
+  "offline_enabled": true,
+  "android_package_name": "com.trollhunters501",
+  "description": "Novedades de Craftsman, plugins para tu serv, y servidores de Minecraft pe y Craftsman y Trollhunters501 Recuerda suscríbete y darle like 😃👍 gracias!",
+  "categories": ["Blog", "developer", "developer tools", "entertainment", "graphics & design", "graphics", "kids", "social", "social networking", "video"],
+  "version": "1.0",
+  "manifest_version": 1,
+  "dir": "auto",
+  "version_name": "1.0 Oficial",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+     "preferred_width": 420
+  },
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "handle_links": "auto",
+  "orientation": "any",
+  "theme_color": "#00FFFF",
+  "background_color": "#008000"
+}
