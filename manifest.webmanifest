@@ -1,12 +1,27 @@
 {
   "name": "Creadores Games",
+  "id": CreadoresGames",
+  "offline_enabled": true,
+  "android_package_name": "com.creadoresgames",
+  "scope": "https://creadoresgamesforum.blogspot.com/p/home.html",
   "short_name": "Creadores Games",
+  "handle_links":"auto",
+  "display": "standalone",
   "description": "Página web oficial del servidor de Minecraft Creadores Games",
-  "start_url": "https://creadoresgamesforum.blogspot.com/",
+  "start_url": "https://creadoresgamesforum.blogspot.com/p/home.html",
   "categories": [
     "games",
     "entertainment"
   ],
+  "dir": "auto",
+  "version": "0.7.7",
+  "edge_side_panel": {
+     "preferred_width": 420
+  },
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "prefer_related_applications": false,
   "theme_color": "#7FFFD4",
   "background_color": "#7FFFD4"
 }
