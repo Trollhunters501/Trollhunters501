@@ -1,15 +1,15 @@
 {
-  "name": "Creadores Games",
-  "id": "CreadoresGames",
-  "author": "Creadores Program",
+  "name": "GamerCR",
+  "id": "GamerCR",
+  "authors": "Creadores Program & GamerLife",
   "offline_enabled": true,
-  "android_package_name": "com.creadoresgames",
+  "android_package_name": "com.gamercr",
   "scope": "https://creadoresgamesforum.blogspot.com/p/home.html",
-  "short_name": "Creadores Games",
+  "short_name": "GamerCR",
   "handle_links":"auto",
   "display": "standalone",
   "display_override": ["standalone"],
-  "description": "Página web oficial del servidor de Minecraft Creadores Games",
+  "description": "Página web oficial del servidor de Minecraft GamerCR",
   "start_url": "https://creadoresgamesforum.blogspot.com/p/home.html",
   "categories": [
     "games",
@@ -19,9 +19,9 @@
     "kids"
   ],
   "dir": "auto",
-  "version": "0.7.7",
-  "manifest_version": "0.7.7",
-  "version_name": "0.7.7 Beta",
+  "version": "1.0",
+  "manifest_version": "1.0",
+  "version_name": "1.0",
   "edge_side_panel": {
      "preferred_width": 420
   },
