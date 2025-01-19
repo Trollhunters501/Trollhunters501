@@ -1,9 +1,9 @@
 # 👋Hola!
  - 👋 Hola, Soy @Trollhunters501
- - 👀 Me interesa crear plugins de Minecraft pe y programar en JS y Java!
+ - 👀 Me Gusta programar en JS y Java!
  - 🌱 Actualmente estoy aprendiendo Java y soy Experto en JavaScript!.
  - 💞️ Estoy buscando colaborar en programas como páginas web, proyectos en JS o Java, etc.
- - 🏆 mi meta es ser conocido como creador de plugins, creador de servidores de Minecraft y programador de Java y JavaScript!.
+ - 🏆 mi meta es ser conocido como creador de servidores de Minecraft y programador de Java y JavaScript!.
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
@@ -12,17 +12,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=Trollhunters501&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## Lenguajes que conozco!🤓😉😄
 
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![](https://es.js.org/badge.svg)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Redes sociales:
-<a href="https://creadoresgames.blogspot.com/?m=1"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-<a href="https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
-<a href="https://discord.gg/HeMbkhnYMR"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100089507007036&mibextid=ZbWKwL"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://creadoresgames.blogspot.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UC0Y6PCdP58OKnGpDDDG6EcQ) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeMbkhnYMR) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089507007036&mibextid=ZbWKwL)
+
+## 📊 Mis Contribuciones de Github
+![](https://github-contributor-stats.vercel.app/api?username=trollhunters501&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📄 Mis Certificados de JavaScript:
 
