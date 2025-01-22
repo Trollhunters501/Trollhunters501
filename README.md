@@ -5,10 +5,12 @@
 - 💞️ Estoy buscando colaborar en programas como páginas web, proyectos en JS o Java, etc.
 - 🏆 Mi meta es ser conocido como creador de servidores de Minecraft y programador de Java y JavaScript!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true) 
+![Stats](https://github-readme-stats.vercel.app/api?username=Trollhunters501&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+![Stats2](https://github-readme-stats.vercel.app/api?username=Trollhunters501PC&theme=dark&show_icons=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollhunters501&show_icons=true&theme=dark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Trollhunters501&theme=dark&hide_border=false)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Trollhunters501&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies2](https://github-profile-trophy.vercel.app/?username=Trollhunters501PC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Lenguajes que conozco!🤓😉😄
 
@@ -36,6 +38,7 @@
 ## 📊 Mis Contribuciones de GitHub
 
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=trollhunters501&limit=6&theme=dark&combine_all_yearly_contributions=true)
+![Contributor Stats 2](https://github-contributor-stats.vercel.app/api?username=trollhunters501pc&limit=6&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📄 Mis Certificados de JavaScript:
 
